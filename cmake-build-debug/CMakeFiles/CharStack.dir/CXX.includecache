@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/LittleRandom/Workspace/C++/CharStack/CharStack.h
+
+C:/Users/LittleRandom/Workspace/C++/CharStack/PairMatcher.h
+CharStack.h
+C:/Users/LittleRandom/Workspace/C++/CharStack/CharStack.h
+
+C:/Users/LittleRandom/Workspace/C++/CharStack/main.cpp
+cstdio
+-
+iostream
+-
+CharStack.h
+C:/Users/LittleRandom/Workspace/C++/CharStack/CharStack.h
+PairMatcher.h
+C:/Users/LittleRandom/Workspace/C++/CharStack/PairMatcher.h
+cstring
+-
+string
+-
+
